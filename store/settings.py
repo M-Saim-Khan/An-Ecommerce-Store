@@ -30,6 +30,9 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'fallback-key-for-local-dev')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://web-production-a9c159.up.railway.app',
+]
 ALLOWED_HOSTS = ["*"]
 
 REST_FRAMEWORK ={
