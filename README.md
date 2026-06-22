@@ -2,9 +2,10 @@ Description:
 - A full-stack Clothing E-Commerce website where users can browse and purchase clothes online.
 
 Recent Changes:
-- Changed the Backend a little and added Frontend using React
+- Changed the website up a little to include reviews as well as detailed product descriptions
 
 Past Changes:
+- Changed the Backend a little and added Frontend using React
 -  Added a Database to store and receive information from
 -  Made and Tested the Admin Panel
 -  Made the backend work with the frontend
